@@ -1,6 +1,6 @@
-# Pets registration
+# Pets registration System
 
-*Project for Pets registration .*
+*Project for Pets registration system .*
 
 **Java 7**
 
