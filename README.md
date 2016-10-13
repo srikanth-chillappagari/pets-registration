@@ -1,6 +1,6 @@
-#Java Project
+# Pets registration
 
-*Project for creating Java applications which do coomon tasks.*
+*Project for Pets registration .*
 
 **Java 7**
 
